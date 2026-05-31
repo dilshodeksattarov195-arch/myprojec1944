@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authealculate",
+        "uuid": 2873232,
+        "checksum": "8sk0c"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
